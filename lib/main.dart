@@ -122,7 +122,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
         elevation: 4.0,
         flexibleSpace: Center(
           child: Text(
-            "Calculator",
+            "MathMate",
             style: const TextStyle(
               fontSize: 24.0,
               fontWeight: FontWeight.bold,
